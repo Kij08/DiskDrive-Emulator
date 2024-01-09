@@ -1,1 +1,1 @@
-Program written in C++ that emulates how a disk drive would function on an operation system. Has options for indexed, chained, and sequential file allocation.
+Program written in C++ that emulates how a disk drive would function with an operating system. Has options for indexed, chained, and sequential file allocation. Each file allocation type has it's own class and the type is specified by a command line arguement.
